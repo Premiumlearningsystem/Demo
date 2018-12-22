@@ -1,1 +1,2 @@
 hello world
+modifying demo.txt to raise a conflict
