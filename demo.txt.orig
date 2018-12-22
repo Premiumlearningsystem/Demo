@@ -1,0 +1,6 @@
+hello world
+<<<<<<< HEAD
+modifying demo.txt to raise a conflict
+=======
+premium learning systems
+>>>>>>> FirstBranch
